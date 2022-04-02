@@ -9,5 +9,5 @@
 ## 感谢
 
 [matebook-13and14-OpenCore-Hackintosh](https://github.com/ske1996/matebook-13and14-OpenCore-Hackintosh)  
-[Honor-MagicBook-X15-Hackintosh](https://github.com/fjallsarlon/Honor-MagicBook-X15-Hackintosh)
+[Honor-MagicBook-X15-Hackintosh](https://github.com/fjallsarlon/Honor-MagicBook-X15-Hackintosh)  
 [OC-little](https://github.com/daliansky/OC-little)
