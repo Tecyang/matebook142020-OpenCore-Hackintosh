@@ -1,8 +1,6 @@
 # matebook142020-OpenCore-Hackintosh
 
-自用华为matebook14 2020款 黑苹果引导 Montory使用,自用版本12.2.1
-
-~~触摸屏不可用 ~~
+自用华为matebook14 2020款 黑苹果引导 Montory使用,自用版本12.4
 
 ![使用图片](./montory.png)
 
