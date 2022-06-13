@@ -21,11 +21,11 @@ monterey 只测试到0.0.4
 
 本人小白，此efi仅作为个人备份及交流使用，有缘人觉得有用的可以参考下。config内acpi和系统引导等比较乱（比如还有我linux系统引导项）请勿见怪。
 
-![monterey](./monterey.png)
-
-![ventura](./ventura.png)
+![monterey](./montory.png)
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/5939598/172662301-534e47c2-0a86-4eff-8f49-a03be7a265d9.png">
+
+![ventura](./ventura.png)
 
 ## 感谢
 
