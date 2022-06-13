@@ -25,7 +25,7 @@ monterey 只测试到0.0.4
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/5939598/172662301-534e47c2-0a86-4eff-8f49-a03be7a265d9.png">
 
-![ventura](./ventura.png)
+![ventura](./ventura bate1.png)
 
 ## 感谢
 
