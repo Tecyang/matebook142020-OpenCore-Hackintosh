@@ -12,8 +12,10 @@
 
 
 支持monterey12.4及ventura13.0 beta
-ventura需要使用itlwm.kext + Heliport.app 作为临时解决方案进行intel网卡驱动see OpenIntelWireless/itlwm#784
+~~ventura需要使用itlwm.kext + Heliport.app 作为临时解决方案进行intel网卡驱动see OpenIntelWireless/itlwm#784~~
 monterey及ventura驱动需要自行设置itlwm及AirportItlwm
+
+monterey 只测试到0.0.4
 
 觉得有用请点个关注
 
